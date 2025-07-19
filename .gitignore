@@ -1,3 +1,5 @@
 .venv/
 dataset/
+src/images/train/
+src/images/test/
 src/images/
