@@ -2,4 +2,5 @@
 dataset/
 src/images/train/
 src/images/test/
-src/images/
+*.pyc
+__pycache__/
